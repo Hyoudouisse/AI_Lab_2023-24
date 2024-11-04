@@ -1,6 +1,6 @@
 # Ex.No: 12  Planning –  Monkey Banana Problem
-### DATE:                                                                            
-### REGISTER NUMBER : 212221040045
+### DATE: 28/10/24                                                                            
+### REGISTER NUMBER : 212221040040
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ###  Algorithm:
