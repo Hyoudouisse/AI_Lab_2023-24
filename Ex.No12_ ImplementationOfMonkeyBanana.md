@@ -1,4 +1,4 @@
-# Ex.No: 12  Planning –  Monkey Banana Problem
+# Ex.No: 12  Planning – Implementation of Monkey Banana Problem
 ### DATE: 28/10/24                                                                            
 ### REGISTER NUMBER : 212221040040
 ### AIM: 
